@@ -1,7 +1,7 @@
 Package: i.Seq.aSum
 Title: This package is for a paper in preparation that compares new scoring methods to competing methods for GE interaction detection for independent subjects
 Version: 0.0.0.9000
-Authors@R: person(“Brandon”, “Coombes”, email = “coom0054@umn.edu”, role = c("aut", "cre"))
+Authors: Brandon Coombes <coom0054@umn.edu>
 Description: Functions for analyzing GE interaction and simulating data
 Depends: R (>= 3.2.2)
 License: n/a
